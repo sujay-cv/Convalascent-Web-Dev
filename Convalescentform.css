@@ -1,0 +1,48 @@
+body{
+background-image:url(https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-geometric-gradient-creative-blood-donation-poster-background-material-image_134137.jpg);
+no-repeat center center fixed;
+background-size:90rem;
+}
+.container{
+position: absolute;
+top:58%;
+left:50%;
+transform:translate(-50%,-50%);
+width:460px;
+padding:2rem;
+background: rgba(0, 0, 1, 0.082);
+box-sizing:border-box;
+box-shadow:0 16px 26px rgba(0, 0, 0, 0.521);
+border-radius: 12px;
+text-align: center;
+}
+.container h3{
+color:red;
+font-size:20px;
+font-family: cursive;
+}
+.container h4{
+color:rebeccapurple;
+font-size: 20px;
+font-family: initial;
+}
+input{
+width: 80%;
+padding:0.9rem;
+border-radius: 20px;
+border:none;
+color:black;
+}
+button{
+width: 50%;
+padding: 0.8rem;
+background-color:rebeccapurple;
+border:none;
+border-radius: 5px;
+border-color: salmon;
+}
+h2{
+font-size:24px;
+color: rgb(66, 17, 114);
+font-family: monospace;
+}
